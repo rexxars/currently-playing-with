@@ -1,1 +1,1 @@
-React.js, Server-Sent Events and Go
+getting NodeConf One-Shot Oslo organized. Also, React.js.
