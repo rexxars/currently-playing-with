@@ -1,1 +1,1 @@
-getting NodeConf One-Shot Oslo organized. Also, React.js.
+organizing NodeConf One-Shot, indexing products from Vinmonopolet.
