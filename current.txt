@@ -1,1 +1,1 @@
-organizing NodeConf One-Shot, indexing products from Vinmonopolet.
+server-sent events, leveldb, dead-letter exchanges
