@@ -1,1 +1,1 @@
-server-sent events, leveldb, dead-letter exchanges
+GraphQL, Hapi, abstract syntax trees.
