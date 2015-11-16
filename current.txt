@@ -1,1 +1,1 @@
-GraphQL, code generation, abstract syntax trees.
+getting Imbo 2.0 out the door
