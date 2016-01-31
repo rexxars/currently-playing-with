@@ -1,1 +1,2 @@
-getting Imbo 2.0 out the door
+ProseMirror, markdown and syntax highlighting
+
